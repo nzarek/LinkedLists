@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zarek_Mod6Projects", "Zarek_Mod6Projects\Zarek_Mod6Projects.csproj", "{4888A998-B498-4C3E-A323-1E948E4634FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{5996B0C3-4E77-4E9B-A41F-72F3742E8040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4888A998-B498-4C3E-A323-1E948E4634FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4888A998-B498-4C3E-A323-1E948E4634FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4888A998-B498-4C3E-A323-1E948E4634FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4888A998-B498-4C3E-A323-1E948E4634FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5996B0C3-4E77-4E9B-A41F-72F3742E8040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5996B0C3-4E77-4E9B-A41F-72F3742E8040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5996B0C3-4E77-4E9B-A41F-72F3742E8040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5996B0C3-4E77-4E9B-A41F-72F3742E8040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

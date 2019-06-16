@@ -1,0 +1,20 @@
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.exe.config
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.exe
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.pdb
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.exe
+\\jomax.paholdings.com\data\azc3home\nzarek\my documents\visual studio 2015\Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Zarek\Desktop\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Zarek\Desktop\School\Spring2018\C#\Zarek_Mod6Projects\Zarek_Mod6Projects\LinkedList\obj\Debug\LinkedList.pdb
